@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My awsome React App
+          My awsome React App is going to be change
         </p>
         
       </header>
